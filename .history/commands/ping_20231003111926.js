@@ -1,0 +1,1 @@
+const { SlashCommandBuilder } = require(d)
